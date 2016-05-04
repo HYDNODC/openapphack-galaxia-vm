@@ -6,7 +6,7 @@ Objective is to have all the projects i.e galaxia-ui & galaxi-client required to
 
 - Pretty much work in Progress
 
-** Few Todos **
+**Few Todos**
 
 Following components to be installed using openapphack ansible roles
 
